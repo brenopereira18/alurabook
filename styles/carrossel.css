@@ -1,4 +1,4 @@
-.carrosel__titulo {
+.carrossel__titulo {
     background-color: var(--branco);
     color: var(--laranja);
     text-align: center;
@@ -97,7 +97,7 @@
 }
 
 @media screen and (min-width: 1366px) {
-    .carrosel__container {
+    .carrossel__container {
         display: flex;
         margin: 0 10vw 3em 10vw;
         align-items: center;
